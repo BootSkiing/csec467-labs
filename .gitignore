@@ -1,3 +1,7 @@
+# Final reports
+reports/*
+*.pdf
+
 # Built application files
 *.apk
 *.aar
