@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Creator</string>
+    <string name="perm_desc">For Wifi Things</string>
+    <string name="perm_label">Just Trust Me</string>
 </resources>
