@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.security:security-app-authenticator:1.0.0-alpha02@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/448f7aa07bc55663bfe4d6fed97c781c/transformed/jetified-security-app-authenticator-1.0.0-alpha02/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/448f7aa07bc55663bfe4d6fed97c781c/transformed/jetified-security-app-authenticator-1.0.0-alpha02/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/448f7aa07bc55663bfe4d6fed97c781c/transformed/jetified-security-app-authenticator-1.0.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2801f2ad0a8e50c74c6e5b1775f34a93/transformed/jetified-security-app-authenticator-1.0.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2801f2ad0a8e50c74c6e5b1775f34a93/transformed/jetified-security-app-authenticator-1.0.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2801f2ad0a8e50c74c6e5b1775f34a93/transformed/jetified-security-app-authenticator-1.0.0-alpha02/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
